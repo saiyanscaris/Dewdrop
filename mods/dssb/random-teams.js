@@ -384,7 +384,7 @@ class RandomSeasonalMeleeTeams extends RandomTeams {
 				nature: "Jolly",
 			},
 			" DivineSaiyanScaris": {
-				species: "Infernape",
+				species: "Infernape-Mega",
 				ability: "Fighter;s Heart",
 				item: "Life Orb",
 				gender: "M",
